@@ -6,3 +6,5 @@
 	该工具可以让 dns 转换到 tcp 协议
 
 因为懒，所以写的很简略😜
+
+追加：tsocks 不好用，不能代理 npm。改用 proxychains4。
